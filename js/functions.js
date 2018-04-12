@@ -1,10 +1,10 @@
 
 <!-- function that uses Kendo resources to transform html to pdf -->
 function ExportPdf(){
-    kendo.drawing.drawDOM("#myCanvas",
+    kendo.drawing.drawDOM("#toPDF",
         {
             paperSize: "A4",
-            margin: { top: "1cm", bottom: "1cm" },
+            margin: { top: "3cm", bottom: "3cm" },
             scale: 0.8,
             height: 500
         })
