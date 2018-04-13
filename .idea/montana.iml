@@ -10,5 +10,12 @@
     <orderEntry type="library" name="jquery" level="application" />
     <orderEntry type="library" name="jszip" level="application" />
     <orderEntry type="library" name="kendo.all" level="application" />
+    <orderEntry type="library" name="bootstrap-slider" level="application" />
+    <orderEntry type="library" name="jsts" level="application" />
+    <orderEntry type="library" name="loader" level="application" />
+    <orderEntry type="library" name="kendo.all" level="application" />
+    <orderEntry type="library" name="jszip" level="application" />
+    <orderEntry type="library" name="jquery" level="application" />
+    <orderEntry type="library" name="pako_deflate" level="application" />
   </component>
 </module>
